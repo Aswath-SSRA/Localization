@@ -1,0 +1,3 @@
+[submodule "resource/mocap_msgs"]
+	path = resource/mocap_msgs
+	url = https://git.hs-coburg.de/Aswath/mocap_msgs.git
